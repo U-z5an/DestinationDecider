@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647816844308",
+    "firebase_url": "https://destination-decider.firebaseio.com",
+    "project_id": "destination-decider",
+    "storage_bucket": "destination-decider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647816844308:android:04c448b67dba2233",
+        "android_client_info": {
+          "package_name": "com.example.destinationdecider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647816844308-88dkm9o7thhdg3sqmoo82nnpj11k7n0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATy3nkcjW7v7F1OsO93AfeYjXy5IC1UNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647816844308-88dkm9o7thhdg3sqmoo82nnpj11k7n0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
